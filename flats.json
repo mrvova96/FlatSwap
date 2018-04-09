@@ -1,0 +1,74 @@
+{
+  "flats": [
+    {
+      "area": 20,
+      "rooms": 2,
+      "level": 5,
+      "typeOfHouse": "кирпичный",
+      "levels": 9,
+      "price": 1500000,
+      "zone": "Заволжский",
+      "street": "Союзная",
+      "house": 141,
+      "zoneChange": "Заволжский",
+      "streetChange": "Орджоникидзе",
+      "levelChange": 5
+    },
+    {
+      "area": 22,
+      "rooms": 1,
+      "level": 5,
+      "typeOfHouse": "панельный",
+      "levels": 9,
+      "price": 7000,
+      "zone": "Заволжский",
+      "street": "Орджоникидзе",
+      "house": 29,
+      "zoneChange": "Заволжский",
+      "streetChange": "Союзная",
+      "levelChange": 5
+    },
+    {
+      "area": 55,
+      "rooms": 4,
+      "level": 7,
+      "typeOfHouse": "кирпичный",
+      "levels": 12,
+      "price": 9999999,
+      "zone": "Ленинский",
+      "street": "Ленина",
+      "house": 99,
+      "zoneChange": "Ленинский",
+      "streetChange": "Победы",
+      "levelChange": 3
+    },
+    {
+      "area": 40,
+      "rooms": 3,
+      "level": 7,
+      "typeOfHouse": "кирпичный",
+      "levels": 9,
+      "price": 2500000,
+      "zone": "Ленинский",
+      "street": "Ленина",
+      "house": 95,
+      "zoneChange": "Заволжский",
+      "streetChange": "Машиностроителей",
+      "levelChange": 8
+    },
+    {
+      "area": 32,
+      "rooms": 2,
+      "level": 7,
+      "typeOfHouse": "панельный",
+      "levels": 3,
+      "price": 1999000,
+      "zone": "Дзержинский",
+      "street": "Дзержинского",
+      "house": 15,
+      "zoneChange": "Ленинский",
+      "streetChange": "Ленина",
+      "levelChange": 7
+    }
+  ]
+}

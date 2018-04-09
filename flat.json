@@ -1,0 +1,15 @@
+{
+  "flats": [
+    {
+      "area": 555,
+      "rooms": 555,
+      "level": 5,
+      "typeOfHouse": "аа",
+      "levels": 5,
+      "price": 565656,
+      "zone": "Заволжский",
+      "street": "Союзная",
+      "house": 5656565
+    }
+  ]
+}
