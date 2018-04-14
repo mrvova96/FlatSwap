@@ -12,7 +12,6 @@ public class Controller {
 
     private View view = new View();
     private static Flat flat = new Flat();
-    private int count = 0;
 
     // Создаем ArrayList для хранения наших квартир
     private static ArrayList<Flat> flatsList = new ArrayList<>();
